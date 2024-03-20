@@ -1,0 +1,7 @@
+telegram:
+  key: "<SUA API KEY>"
+  chat-id: <SEU CHAT ID>
+
+request-url: "<SUA URL RASTREADA>"
+
+expected-string: "Última atualização em Quarta, 13 de Março de 2024, 13h17" ## Exemplo de texto rastrado
